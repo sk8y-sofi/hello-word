@@ -9,8 +9,8 @@ Anyone who wants to help me in the project is welcome !
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="![logo Sk8y app](https://github.com/user-attachments/assets/a595d728-eae6-405f-b162-d2f3a1e71052)
 ">
 </picture>
-| Rank | Hobbies         |
-|-----:|-----------------|
-|     1|  Surfskate      |
-|     2|  Surf Longboard |
-|     3|  Snowboard      |
+| Rank | Hobbies            |
+|-----:|------------------  |
+|     1|  Surfskate         |
+|     2|  Surf Longboard    |
+|     3|  Snowboard         |
