@@ -1,5 +1,5 @@
 # hello-word
-ideas
+idées et choses à faire
 se former à github
 se former à 02switch
 créer des fichiers .env
