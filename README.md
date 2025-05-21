@@ -13,3 +13,4 @@ Anyone who wants to help me in the project is welcome !
 |-----:|------------------  |
 |     1|  Surfskate         |
 |     2|  Surf Longboard    |
+|     3|  Snowboard         |
