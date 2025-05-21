@@ -10,7 +10,7 @@ Anyone who wants to help me in the project is welcome !
 ">
 </picture>
 | Rank | Hobbies            |
-|-----:|------------------  |
+|-----:|---------  |
 |     1|  Surfskate         |
 |     2|  Surf Longboard    |
 |     3|  Snowboard         |
